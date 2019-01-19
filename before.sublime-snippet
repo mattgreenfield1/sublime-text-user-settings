@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+before ${1:thing} do
+  ${2:content}
+end
+]]></content>
+  <tabTrigger>bef</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>

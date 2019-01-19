@@ -1,10 +1,14 @@
 {
+	"auto_complete_commit_on_tab": false,
 	"detect_indentation": false,
 	"drag_text": true,
 	"ensure_newline_at_eof_on_save": false,
-	"font_size": 18,
+	"font_size": 15,
 	"ignored_packages":
 	[
+		"Color Highlight",
+		"Emmet",
+		"HTMLBeautify",
 		"Vintage"
 	],
 	"tab_size": 2,
