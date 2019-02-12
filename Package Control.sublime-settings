@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"AutoHotkey",
 		"Case Conversion",
-		"Package Control"
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements"
 	]
 }
