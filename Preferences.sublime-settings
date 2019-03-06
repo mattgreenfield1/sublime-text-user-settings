@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": false,
+	"auto_complete_commit_on_tab": true,
 	"detect_indentation": false,
 	"drag_text": false,
 	"ensure_newline_at_eof_on_save": false,
@@ -12,7 +12,7 @@
 		".servers/",
 		".vagrant/"
 	],
-	"font_size": 15,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Color Highlight",
@@ -23,6 +23,5 @@
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
-	"use_tab_stops": true,
-  "auto_complete_commit_on_tab": true,
+	"use_tab_stops": true
 }
