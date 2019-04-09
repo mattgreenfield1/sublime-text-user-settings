@@ -10,9 +10,10 @@
 		".circleci/",
 		".github/",
 		".servers/",
-		".vagrant/"
+		".vagrant/",
+    "node_modules"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Color Highlight",
