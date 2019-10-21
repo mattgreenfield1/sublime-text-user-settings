@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+when('${1:thing}', () => {
+  ${2:content}
+})
+]]></content>
+  <tabTrigger>when</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
